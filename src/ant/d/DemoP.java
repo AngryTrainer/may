@@ -7,6 +7,7 @@ public class DemoP {
 		Pudge pudge=new Pudge();
 		System.out.println(pudge.getName());
 		//System.out.println("Ggg");
+		
 	}
 
 }
